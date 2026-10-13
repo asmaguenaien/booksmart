@@ -9,7 +9,7 @@ BookSmart is a responsive web application concept for exploring meeting rooms, c
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-🔗 **Live Demo:** (https://your-project.vercel.app)
+🔗 **Live Demo:** ((https://booksmart-dusky.vercel.app/))
 
 > **Project status:** Frontend prototype. Availability data and chatbot responses are simulated. Real reservations and backend persistence are not implemented yet.
 
