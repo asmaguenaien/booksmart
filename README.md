@@ -4,7 +4,7 @@
 
 BookSmart is a responsive web application concept for exploring meeting rooms, coworking spaces, and event venues. Users can compare room capacities, amenities, hourly prices, and sample availability through an interactive interface.
 
-[![CI](https://github.com/asmaguenaien/booksmart-workspace-booking/actions/workflows/ci.yml/badge.svg)](https://github.com/asmaguenaien/booksmart-workspace-booking/actions/workflows/ci.yml)
+
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
