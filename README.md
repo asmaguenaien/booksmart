@@ -83,7 +83,7 @@ src/
 
 ## 📸 Screenshots
 
-Screenshots of the workspace catalog, availability calendar, and BookBot assistant will be added here.
+![BookSmart screenshot](./public/screenshot.png)
 
 ## 🗺️ Roadmap
 
